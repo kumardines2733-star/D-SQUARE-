@@ -1,0 +1,6 @@
+{
+  "name": "D SQUARE",
+  "description": "Luxury multi-category e-commerce Android platform featuring storefront, checkout, order tracking, owner admin controls, role-based staff management, and real-time business performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
